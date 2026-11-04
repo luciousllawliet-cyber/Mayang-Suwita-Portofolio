@@ -23,7 +23,7 @@ const PORTFOLIO = {
       tanggal: "2026-09-03",
       judul: "Dapat Doorprize Senang, Menang Lomba Girang, Tapi Kok Bisa-Bisanya Jadi Judi?",
       lead: "Ketuk-ketuk terdengar dari pintu satu ke pintu lainnya. Ketika pintu dibuka, ternyata pihak karang taruna yang datang, mengabarkan bahwa perayaan Agustusan akan segera tiba. Setiap warga pun ditawarkan untuk menghibahkan sejumlah uangnya bagi acara yang akan digelar dalam rangka perayaan tersebut.",
-      gambar: "gambar/berita1.jpg",
+      gambar: "berita1.jpg",
       link: "https://kumparan.com/mayang-suwita-1687776104546406161/285v0LprJZ8?utm_source=Desktop&utm_medium=copy-to-clipboard&shareID=HcA1398h3d77"
     },
     {
@@ -31,7 +31,7 @@ const PORTFOLIO = {
       tanggal: "2025-02-15",
       judul: "Sebelum Ke Kampung Inggris Pare, Simak 9 Fakta Ini Dulu!",
       lead: "Menemukan cinta baru hanya bonus dalam perjalananmu. Penulis ingin menekankan bahwa untuk tinggal di Kampung Inggris, kamu tidak perlu khawatir ataupun ragu. Kamu akan merasakan kenyamanan tinggal di sini, bukan dari love story-nya namun dari segi yang lain. Penulis merangkum beberapa hal yang akan membuatmu geleng kepala dan betah di Kampung Inggris.",
-      gambar: "gambar/berita2.jpg",
+      gambar: "berita2.jpg",
       link: "https://kumparan.com/mayang-suwita-1687776104546406161/24T5iceCZsB?utm_source=Desktop&utm_medium=copy-to-clipboard&shareID=CRr9GymEdxYN"
     },
     {
@@ -39,7 +39,7 @@ const PORTFOLIO = {
       tanggal: "2024-09-08",
       judul: "Arahkan Perhatian pada Mereka yang Tak Terlihat",
       lead: "Sosin, caisim  begitu banyak penyebutan untuk sayuran yang sering dijadikan makanan seblak menjadi lebih berwarna. Sosin yang hampir mirip dengan pokcoy memiliki badan yang lebih ramping dan rasanya pun tidak seperti pokcoy yang terkadang sedikit pahit di lidah. ",
-      gambar: "gambar/berita3.jpg",
+      gambar: "berita3.jpg",
       link: "https://kumparan.com/mayang-suwita-1687776104546406161/23R0Wcs0Mfj?utm_source=Desktop&utm_medium=copy-to-clipboard&shareID=BfyXypw6tYBH"
     },
      {
@@ -47,7 +47,7 @@ const PORTFOLIO = {
       tanggal: "2024-07-31",
       judul: "Kewer: Tanaman Multiguna Khas Sukalaksana, Kini Jadi Motif Batik Unik Nan Cantik",
       lead: "Garut selama ini terkenal dengan Batik Garutan yang memiliki motif dan warna-warna khasnya. Tentu hal ini, turut memperkaya keragaman batik Indonesia yang saat ini sudah mendunia, sejajar dengan Batik Mega Mendung Cirebon, Batik Pekalongan, Batik Kawung, dan lain sebagainya.",
-      gambar: "gambar/berita4.jpg",
+      gambar: "berita4.jpg",
       link: "https://kumparan.com/mayang-suwita-1687776104546406161/23EFy0aTGQj?utm_source=Desktop&utm_medium=copy-to-clipboard&shareID=yg71lvOJsCzy"
     },
      {
@@ -55,7 +55,7 @@ const PORTFOLIO = {
       tanggal: "2026-07-04",
       judul: "Masa Depan Hijau: Implementasi Ekonomi Sirkular di Indonesia",
       lead: "Ini fakta. Sebanyak 7,2 ton sampah di Indonesia belum terkelola dengan baik. Hal ini disampaikan melalui laporan data Sistem Informasi Pengelolaan Sampah Nasional (SIPSN) Kementerian Lingkungan Hidup dan Kehutanan (KLHK) pada tahun 2022 yang merupakan hasil input dari 202 kab/kota se-Indonesia.",
-      gambar: "gambar/berita5.jpg",
+      gambar: "berita5.jpg",
       link: "https://kumparan.com/mayang-suwita-1687776104546406161/233gifb0hQn?utm_source=Desktop&utm_medium=copy-to-clipboard&shareID=kajZ1N51Fj8v"
     },
      {
@@ -63,7 +63,7 @@ const PORTFOLIO = {
       tanggal: "2024-07-03",
       judul: "Seni dari Limbah: Langkah Menuju Ekonomi Sirkular",
       lead: "Berangkat dari limbah kaleng, salah satu warga Balonggede, Kota Bandung bernama Ade Syarifudin menciptakan miniatur yang memukau. Berbekal hobi dan alat sederhana seperti gunting dan lem, Ade mampu membuat berbagai miniatur seperti vespa, robot, pesawat terbang, hingga motor moge.",
-      gambar: "gambar/berita6.jpg",
+      gambar: "berita6.jpg",
       link: "https://kumparan.com/mayang-suwita-1687776104546406161/232n8JDRdQt?utm_source=Desktop&utm_medium=copy-to-clipboard&shareID=eBzHRxYv0cMs"
     },
      {
@@ -71,7 +71,7 @@ const PORTFOLIO = {
       tanggal: "2024-05-05",
       judul: "Rute Murah dari Bandung Ke Jakarta Ala Mahasiswa Unpad, Cuma Rp 20 Ribu",
       lead: "Lagu Naik Kereta Api yang diciptakan Ibu Sud memang biasa dinyanyikan anak kecil, tapi untuk ajakan Ibu Sud naik kereta kita harus mau. Apalagi kereta api membuat perjalanan kita terbebas dari kemacetan lalu lintas. ",
-      gambar: "gambar/berita7.jpg",
+      gambar: "berita7.jpg",
       link: "https://kumparan.com/mayang-suwita-1687776104546406161/20g2144T1a1?utm_source=Desktop&utm_medium=copy-to-clipboard&shareID=bge1euJR4NZW"
     },
     {
@@ -79,7 +79,7 @@ const PORTFOLIO = {
       tanggal: "2024-04-15",
       judul: "Melongok Kisah Buruh Garmen yang Sempat Dikerubungi Warga Jelang Lebaran Kemarin",
       lead: "Jelang lebaran, di saat emak-emak gelisah karena kebesaran baju, disisi lain ada orang tersenyum simpul, mencium bau-bau hasilkan uang. Siapa lagi kalau bukan sang tailor.",
-      gambar: "gambar/berita8.jpg",
+      gambar: "berita8.jpg",
       link: "https://kumparan.com/mayang-suwita-1687776104546406161/22YDpfi122z?utm_source=Desktop&utm_medium=copy-to-clipboard&shareID=gRGACBeciXT6"
     }
   ],
@@ -96,11 +96,11 @@ const PORTFOLIO = {
       jenis: "Konten Instagram @Aww_Unpad",
       deskripsi: "Konten Instagram ini merupakan hasil kepanitiaan saya dalam AAW (Al-Aqsa Awareness Week) x P3 (Pekan Peduli Palestina) 2026. Saya berperan sebagai anggota tim media dengan tanggung jawab pada pembuatan konten desain grafis. Konten ini diunggah pada 2 November 2026.",
       slides: [
-        "gambar/selaknatapasihsionis1.png",
-        "gambar/selaknatapasihsionis2.png",
-        "gambar/selaknatapasihsionis3.png",
-        "gambar/selaknatapasihsionis4.png",
-        "gambar/selaknatapasihsionis5.png"
+        "selaknatapasihsionis1.png",
+        "selaknatapasihsionis2.png",
+        "selaknatapasihsionis3.png",
+        "selaknatapasihsionis4.png",
+        "selaknatapasihsionis5.png"
       ],
       link: "https://www.instagram.com/p/DfOb5q7DwbS/?utm_source=ig_web_copy_link&obrf=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
     },
@@ -109,12 +109,12 @@ const PORTFOLIO = {
       jenis: "Konten Instagram @alalaradio",
       deskripsi: "Konten Instagram ini  merupakan konten minggu ketiga dari tugas mata kuliah Jurnalisme Digital, diupload pada 25 November 2024. Dalam pengerjaannya, saya bertugas sebagai editor dan berkolaborasi dengan tim yang terdiri dari enam anggota.",
       slides: [
-        "gambar/5rekomendasiperpustakaanumumdikotabandung1.jpg",
-        "gambar/5rekomendasiperpustakaanumumdikotabandung2.jpg",
-        "gambar/5rekomendasiperpustakaanumumdikotabandung3.jpg",
-        "gambar/5rekomendasiperpustakaanumumdikotabandung4.jpg",
-        "gambar/5rekomendasiperpustakaanumumdikotabandung5.jpg",
-        "gambar/5rekomendasiperpustakaanumumdikotabandung6.jpg"
+        "5rekomendasiperpustakaanumumdikotabandung1.jpg",
+        "5rekomendasiperpustakaanumumdikotabandung2.jpg",
+        "5rekomendasiperpustakaanumumdikotabandung3.jpg",
+        "5rekomendasiperpustakaanumumdikotabandung4.jpg",
+        "5rekomendasiperpustakaanumumdikotabandung5.jpg",
+        "5rekomendasiperpustakaanumumdikotabandung6.jpg"
       ],
       link: "https://www.instagram.com/p/DCx2eTqzLp4/?cplk=MXR6b3NvY2R1MTV6eQ=="
     },
@@ -123,13 +123,13 @@ const PORTFOLIO = {
       jenis: "Konten Instagram @alalaradio",
       deskripsi: "Konten Instagram ini merupakan konten minggu kedua dari tugas mata kuliah Jurnalisme Digital, diunggah pada 18 November 2024. Dalam pengerjaannya, saya bertugas sebagai editor dan berkolaborasi dengan tim yang terdiri dari enam anggota",
       slides: [
-        "gambar/apaitukotainklusi1.jpg",
-        "gambar/apaitukotainklusi2.jpg",
-        "gambar/apaitukotainklusi3.jpg",
-        "gambar/apaitukotainklusi4.jpg",
-        "gambar/apaitukotainklusi5.jpg",
-        "gambar/apaitukotainklusi6.jpg",
-        "gambar/apaitukotainklusi7.jpg"
+        "apaitukotainklusi1.jpg",
+        "apaitukotainklusi2.jpg",
+        "apaitukotainklusi3.jpg",
+        "apaitukotainklusi4.jpg",
+        "apaitukotainklusi5.jpg",
+        "apaitukotainklusi6.jpg",
+        "apaitukotainklusi7.jpg"
       ],
       link: "https://www.instagram.com/p/DCfsit3zC9J/?igsh=MXdzZzUwbXdnMWxvZw=="
     },
@@ -138,12 +138,12 @@ const PORTFOLIO = {
       jenis: "Konten Instagram @alalaradio",
       deskripsi: "Konten Instagram ini merupakan konten minggu pertama dari tugas mata kuliah Jurnalisme Digital, diunggah pada 11 November 2024. Dalam pengerjaannya, saya bertugas sebagai editor dan berkolaborasi dengan tim yang terdiri dari enam anggota",
       slides: [
-        "gambar/kenalansamatelukbus1.jpg",
-        "gambar/kenalansamatelukbus2.jpg",
-        "gambar/kenalansamatelukbus3.jpg",
-        "gambar/kenalansamatelukbus4.jpg",
-        "gambar/kenalansamatelukbus5.jpg",
-        "gambar/kenalansamatelukbus6.jpg"
+        "kenalansamatelukbus1.jpg",
+        "kenalansamatelukbus2.jpg",
+        "kenalansamatelukbus3.jpg",
+        "kenalansamatelukbus4.jpg",
+        "kenalansamatelukbus5.jpg",
+        "kenalansamatelukbus6.jpg"
       ],
       link: "https://www.instagram.com/p/DCNsEEwTFFA/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     },
@@ -152,7 +152,7 @@ const PORTFOLIO = {
       jenis: "Infografis",
       deskripsi: "Konten Facebook @alalaradio ini merupakan konten minggu ketiga dari tugas mata kuliah Jurnalisme Digital, diunggah pada 23 November 2024. Dalam pengerjaannya, saya bertugas sebagai editor dan berkolaborasi dengan tim yang terdiri dari enam anggota",
       slides: [
-        "gambar/Ayo Kenal Lebih Dekat dengan Perpustakaan Digital!.jpg"
+        "Ayo Kenal Lebih Dekat dengan Perpustakaan Digital!.jpg"
       ],
       link: "https://www.facebook.com/share/p/15C8HYs1hw/"
     },
@@ -161,7 +161,7 @@ const PORTFOLIO = {
       jenis: "Infografis",
       deskripsi: "Konten Facebook @alalaradio ini merupakan konten minggu keempat dari tugas mata kuliah Jurnalisme Digital, diunggah pada 30 November 2024. Dalam pengerjaannya, saya bertugas sebagai editor dan berkolaborasi dengan tim yang terdiri dari enam anggota",
       slides: [
-        "gambar/Apa Itu Skrining Pra Nikah.png"
+        "Apa Itu Skrining Pra Nikah.png"
       ],
       link: "https://www.facebook.com/share/p/15C8HYs1hw/"
     },
@@ -170,7 +170,7 @@ const PORTFOLIO = {
       jenis: "Infografis - Konten Navigasi.co",
       deskripsi: "Konten infografis ini merupakan bagian dari proyek magang saya bersama Divia TV pada periode Juli–September untuk pengembangan website navigasi.co. Dalam tim yang terdiri dari tiga orang, saya bertanggung jawab pada bidang UI/UX, pembuatan infografis, serta perancangan grand design dan logo.",
       slides: [
-        "gambar/Mengenal Ayam Pelung, Warisan Genetik Unggul Indonesia.png"
+        "Mengenal Ayam Pelung, Warisan Genetik Unggul Indonesia.png"
       ],
       link: "https://navigasi.co/infografik/mengenal-ayam-pelung%2C-warisan-genetik-unggul-indonesia-30"
     },
@@ -179,7 +179,7 @@ const PORTFOLIO = {
       jenis: "Infografis - Konten Navigasi.co",
       deskripsi: "Infografis ini merupakan bagian dari tugas mata kuliah Logika Media dan Bahasa Jurnalistik.",
       slides: [
-        "gambar/Jurnalistik-B_Kelompok 12_Analisis Logika Media_The Truman Show1.jpg"
+        "Jurnalistik-B_Kelompok 12_Analisis Logika Media_The Truman Show1.jpg"
       ],
     },
     {
@@ -187,7 +187,7 @@ const PORTFOLIO = {
       jenis: "Infografis - Konten Navigasi.co",
       deskripsi: "Konten infografis ini merupakan bagian dari proyek magang saya bersama Divia TV pada periode Juli–September untuk pengembangan website navigasi.co. Dalam tim yang terdiri dari tiga orang, saya bertanggung jawab pada bidang UI/UX, pembuatan infografis, serta perancangan grand design dan logo.",
       slides: [
-        "gambar/Infografis Ayo Kenal Lebih Dekat dengan Perpustakaan Digital!.png"
+        "Infografis Ayo Kenal Lebih Dekat dengan Perpustakaan Digital!.png"
       ],
       link: "https://navigasi.co/kanal-infografik.php"
     },
@@ -196,7 +196,7 @@ const PORTFOLIO = {
       jenis: "Infografis - Projek Kerjasama Dosen Fakultas Ilmu Komunikasi",
       deskripsi: "Infografis ini merupakan proyek kolaborasi bersama dosen di Fakultas Ilmu Komunikasi Universitas Padjadjaran dalam mendukung program Green Campus di Fikom Unpad.",
       slides: [
-        "gambar/File Asli Infografis 1.jpg"
+        "File Asli Infografis 1.jpg"
       ],
     },
     {
@@ -204,7 +204,7 @@ const PORTFOLIO = {
       jenis: "Infografis - Konten Navigasi.co",
       deskripsi: "Konten infografis ini merupakan bagian dari proyek magang saya bersama Divia TV pada periode Juli–September untuk pengembangan website navigasi.co. Dalam tim yang terdiri dari tiga orang, saya bertanggung jawab pada bidang UI/UX, pembuatan infografis, serta perancangan grand design dan logo.",
       slides: [
-        "gambar/Infografis Apa itu Skrining Pranikah_.png"
+        "Infografis Apa itu Skrining Pranikah_.png"
       ],
       link: "https://navigasi.co/kanal-infografik.php"
     },
@@ -213,7 +213,7 @@ const PORTFOLIO = {
       jenis: "Infografis - Konten Navigasi.co",
       deskripsi: "Konten infografis ini merupakan bagian dari proyek magang saya bersama Divia TV pada periode Juli–September untuk pengembangan website navigasi.co. Dalam tim yang terdiri dari tiga orang, saya bertanggung jawab pada bidang UI/UX, pembuatan infografis, serta perancangan grand design dan logo.",
       slides: [
-        "gambar/infografis Perjalanan Dosen Jurnalistik Unpad Ikut Misi Menembus Blokade Gaza.png"
+        "infografis Perjalanan Dosen Jurnalistik Unpad Ikut Misi Menembus Blokade Gaza.png"
       ],
       link: "https://navigasi.co/kanal-infografik.php"
     },
@@ -222,7 +222,7 @@ const PORTFOLIO = {
       jenis: "Infografis - Projek Kerjasama Dosen Fakultas Ilmu Komunikasi",
       deskripsi: "Infografis ini merupakan proyek kolaborasi bersama dosen di Fakultas Ilmu Komunikasi Universitas Padjadjaran dalam mendukung program Green Campus di Fikom Unpad.",
       slides: [
-        "gambar/File Asli Infografis 2.jpg"
+        "File Asli Infografis 2.jpg"
       ],
     },
     {
@@ -230,7 +230,7 @@ const PORTFOLIO = {
       jenis: "Infografis - Konten Navigasi.co",
       deskripsi: "Konten infografis ini merupakan bagian dari proyek magang saya bersama Divia TV pada periode Juli–September untuk pengembangan website navigasi.co. Dalam tim yang terdiri dari tiga orang, saya bertanggung jawab pada bidang UI/UX, pembuatan infografis, serta perancangan grand design dan logo.",
       slides: [
-        "gambar/Infografis pimpinan fikom Unpad dari masa ke masa.png"
+        "Infografis pimpinan fikom Unpad dari masa ke masa.png"
       ],
       link: "https://navigasi.co/kanal-infografik.php"
     },
@@ -239,7 +239,7 @@ const PORTFOLIO = {
       jenis: "Infografis - Konten Navigasi.co",
       deskripsi: "Konten infografis ini merupakan bagian dari proyek magang saya bersama Divia TV pada periode Juli–September untuk pengembangan website navigasi.co. Dalam tim yang terdiri dari tiga orang, saya bertanggung jawab pada bidang UI/UX, pembuatan infografis, serta perancangan grand design dan logo.",
       slides: [
-        "gambar/Infografis Fakta Menarik tentang Guru Besar Fikom.png"
+        "Infografis Fakta Menarik tentang Guru Besar Fikom.png"
       ],
       link: "https://navigasi.co/kanal-infografik.php"
     }
@@ -319,7 +319,7 @@ const PORTFOLIO = {
       nama: "Navigasi.co",
       deskripsi: "Website katalog produk dengan keranjang belanja.",
       url: "https://navigasi.co",
-      gambar: "gambar/TV - 1.png",
+      gambar: "TV - 1.png",
     }
   ],
 
@@ -346,19 +346,19 @@ const PORTFOLIO = {
       judul: "Juara 3 Lomba Penulisan Jurnalisme",
       penyelenggara: "Comminfest 2024 Artriwara Universitas Atma Jaya Yogjakarta",
       tahun: "2024",
-      gambar: "gambar/Mayang Suwita (Atriwara Juara 3).png"
+      gambar: "Mayang Suwita (Atriwara Juara 3).png"
     },
     {
       judul: "Pemenang Nominasi Mahasiswa Terbaik pada Penulisan Jurnalisme",
       penyelenggara: "Kabiner Sejiwa Himpunan Mahasiswa Jurnalistik Fikom Unpad",
       tahun: "2024",
-      gambar: "gambar/Mayang Suwita Penulisan Jurnalisme_page-0001.jpg"
+      gambar: "Mayang Suwita Penulisan Jurnalisme_page-0001.jpg"
     },
     {
       judul: "Pemenang Nominasi Kelompok Terbaik pada Jurnalisme Audio Visual",
       penyelenggara: "Kabiner Sejiwa Himpunan Mahasiswa Jurnalistik Fikom Unpad",
       tahun: "2024",
-      gambar: "gambar/Mayang Suwita JAV_page-0001.jpg"
+      gambar: "Mayang Suwita JAV_page-0001.jpg"
     }
   ]
 };
