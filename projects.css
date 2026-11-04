@@ -1,0 +1,131 @@
+/* ===== TAB PROYEK ===== */
+.tabs {
+  display: flex; gap: 10px; margin-bottom: 34px;
+  overflow-x: auto; padding-bottom: 6px; scrollbar-width: thin;
+}
+.tab {
+  flex: 0 0 auto; padding: 10px 18px; border-radius: 99px; cursor: pointer;
+  background: var(--card); color: var(--muted); border: 1px solid var(--border);
+  font: 600 .9rem 'Inter', sans-serif; transition: .2s;
+}
+.tab:hover { color: var(--accent); border-color: var(--accent); }
+.tab.active {
+  color: #fff; border-color: transparent;
+  background: linear-gradient(135deg, var(--accent), var(--accent-2));
+}
+.tab-panel { display: none; }
+.tab-panel.active { display: block; animation: fadeIn .4s ease; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+
+.empty { color: var(--muted); padding: 30px 0; }
+.empty code { color: var(--accent); }
+.center-btn { text-align: center; margin-top: 30px; }
+button.btn { cursor: pointer; font-family: inherit; font-size: 1rem; background: transparent; }
+.btn.small { padding: 8px 18px; font-size: .88rem; margin-top: 6px; }
+
+/* ===== BERITA ===== */
+.search {
+  width: 100%; max-width: 420px; padding: 11px 16px; margin-bottom: 24px;
+  border-radius: 8px; border: 1px solid var(--border); background: var(--card);
+  color: var(--text); font: 1rem 'Inter', sans-serif;
+}
+.search:focus { outline: 2px solid var(--accent); }
+.news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+.news-card {
+  display: flex; flex-direction: column; gap: 8px; padding: 22px;
+  background: var(--card); border: 1px solid var(--border); border-radius: 14px;
+  border-left: 4px solid var(--accent); transition: transform .25s, box-shadow .25s, border-color .25s;
+}
+.news-card:hover { transform: translateY(-6px); border-color: var(--accent); box-shadow: 0 14px 30px rgba(0,0,0,.25); }
+.news-meta { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+.news-media { font-weight: 700; color: var(--accent); }
+.news-card time { font-size: .8rem; color: var(--muted); font-family: 'JetBrains Mono', monospace; }
+.news-card { overflow: hidden; }
+.news-thumb {
+  display: block; width: calc(100% + 44px); margin: -22px -22px 8px;
+  aspect-ratio: 16 / 9; object-fit: cover; background: var(--bg-soft);
+}
+.news-card h3 { font-size: 1.05rem; line-height: 1.4; }
+.news-card p {
+  color: var(--muted); font-size: .92rem;
+  display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden;
+}
+.news-card .read { margin-top: auto; padding-top: 6px; font-size: .85rem; font-weight: 600; color: var(--accent); }
+
+/* ===== KARTU KARYA (desain, video, website, figma) ===== */
+.work-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; }
+.work-card {
+  background: var(--card); border: 1px solid var(--border); border-radius: 14px;
+  overflow: hidden; transition: transform .25s, border-color .25s, box-shadow .25s;
+}
+.work-card:hover { transform: translateY(-6px); border-color: var(--accent); box-shadow: 0 14px 30px rgba(0,0,0,.25); }
+.work-body { padding: 20px 22px 24px; }
+.work-body h3 { margin: 8px 0 6px; font-size: 1.05rem; }
+.work-body p { color: var(--muted); font-size: .92rem; margin-bottom: 12px; }
+.badge {
+  display: inline-block; padding: 3px 12px; border-radius: 99px; font-size: .75rem;
+  font-family: 'JetBrains Mono', monospace; color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 14%, transparent);
+}
+.text-link { color: var(--accent); font-size: .88rem; font-weight: 600; }
+.text-link:hover { text-decoration: underline; }
+
+/* Carousel (desain grafis) */
+.carousel { position: relative; background: #000; }
+.track {
+  display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none;
+}
+.track::-webkit-scrollbar { display: none; }
+.track img { flex: 0 0 100%; width: 100%; aspect-ratio: 4 / 5; object-fit: cover; scroll-snap-align: center; }
+.car-btn {
+  position: absolute; top: 50%; transform: translateY(-50%);
+  width: 36px; height: 36px; border-radius: 50%; border: none; cursor: pointer;
+  background: rgba(0,0,0,.55); color: #fff; font-size: 1.4rem; line-height: 1;
+}
+.car-btn:hover { background: var(--accent); }
+.car-btn.prev { left: 10px; } .car-btn.next { right: 10px; }
+.car-count {
+  position: absolute; right: 10px; top: 10px; padding: 3px 10px; border-radius: 99px;
+  background: rgba(0,0,0,.6); color: #fff; font-size: .75rem; font-family: 'JetBrains Mono', monospace;
+}
+
+/* Embed video & figma */
+.embed { position: relative; width: 100%; background: #000; }
+.embed-video { aspect-ratio: 16 / 9; }
+.embed-figma { aspect-ratio: 16 / 10; }
+.embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.video-cta { text-align: center; margin-top: 30px; }
+
+/* Website */
+.shot { display: block; overflow: hidden; background: var(--bg-soft); }
+.shot img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; object-position: top; transition: transform .5s; }
+.work-card:hover .shot img { transform: scale(1.05); }
+
+/* ===== SERTIFIKAT ===== */
+.cert-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 22px; }
+.cert {
+  display: flex; flex-direction: column; text-align: left; cursor: pointer; padding: 0;
+  background: var(--card); color: var(--text); border: 1px solid var(--border);
+  border-radius: 14px; overflow: hidden; font-family: inherit;
+  transition: transform .25s, border-color .25s;
+}
+.cert:hover { transform: translateY(-6px); border-color: var(--accent); }
+.cert img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; background: var(--bg-soft); }
+.cert-info { padding: 14px 18px 18px; display: flex; flex-direction: column; gap: 2px; }
+.cert-info small { color: var(--muted); }
+
+.lightbox {
+  position: fixed; inset: 0; z-index: 200; padding: 20px; cursor: zoom-out;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px;
+  background: rgba(2, 6, 23, .92);
+}
+.lightbox[hidden] { display: none; }
+.lightbox img { max-width: 94vw; max-height: 80vh; border-radius: 10px; cursor: default; }
+.lightbox p { color: #e2e8f0; text-align: center; }
+.lb-close {
+  position: absolute; top: 16px; right: 20px; background: none; border: none;
+  color: #fff; font-size: 2.2rem; cursor: pointer;
+}
+
+/* atribut hidden harus selalu menyembunyikan elemen */
+[hidden] { display: none !important; }
