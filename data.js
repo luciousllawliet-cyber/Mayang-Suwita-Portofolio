@@ -317,7 +317,7 @@ const PORTFOLIO = {
   website: [
     {
       nama: "Navigasi.co",
-      deskripsi: "Website katalog produk dengan keranjang belanja.",
+      deskripsi: "Selama magang di Divia TV Unpad, saya menawarkan, menginisiasi dan mengembangkan Navigasi.co, sebagai platform berita berbasis web yang dibangun dari nol bersama tim beranggotakan tiga orang. Dalam proyek ini, saya mengambil peran sebagai UI/UX Designer dengan tanggung jawab merancang pengalaman pengguna, mulai dari menyusun struktur informasi, merancang antarmuka dan navigasi, hingga mengembangkan prototipe interaktif menggunakan Figma. Saya berupaya menghadirkan pengalaman membaca berita yang fresh, nyaman, dan mudah diakses melalui desain visual yang terstruktur serta animasi yang mendukung interaksi pengguna. Selain itu, saya turut memproduksi infografis sebagai alternatif penyajian informasi jurnalistik yang lebih komunikatif dan menarik secara visual.",
       url: "https://navigasi.co",
       gambar: "TV - 1.png",
     }
